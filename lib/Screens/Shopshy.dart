@@ -309,7 +309,7 @@ class ShopshyState extends State<Shopshy> {
           ),
         ],
       ),
-      drawer: ListView(children: [const ListTile(leading: Icon(Icons.shop),title: Text('Shop'),subtitle: Text('Shopinng'),)], ),
+      drawer: ListView(children: const [ListTile(leading: Icon(Icons.shop),title: Text('Shop'),subtitle: Text('Shopinng'),)], ),
     );
   }
 }
