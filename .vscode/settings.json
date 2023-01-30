@@ -2,5 +2,5 @@
     "avdmanager.executable": "c:\\Users\\Admin\\Downloads\\flutter\\bin\\dart.bat",
     "avdmanager.sdkManager": "c:\\Users\\Admin\\Downloads\\flutter\\bin\\cache\\android-sdk.stamp",
     "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
