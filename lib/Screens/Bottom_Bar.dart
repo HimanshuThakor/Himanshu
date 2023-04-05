@@ -21,6 +21,7 @@ class _bottommenuState extends State<bottommenu> {
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(icon: Icon(Icons.home), label: "Home"),
           BottomNavigationBarItem(
+          
               icon: Icon(Icons.info_outline), label: "Info"),
           BottomNavigationBarItem(icon: Icon(Icons.menu), label: "Menu"),
         ],
